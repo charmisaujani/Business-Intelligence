@@ -1,0 +1,5 @@
+region,total_orders,late_orders,avg_delay
+East,203,43,0.73
+South,207,40,0.7
+North,203,39,0.75
+West,192,33,0.79
